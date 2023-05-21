@@ -23,3 +23,5 @@ def equation(x):
 accuracy = 0.001
 root = bisection_method(equation, -10, 0, accuracy)
 print("Root:", root)
+
+//pip install numpy matplotlib
